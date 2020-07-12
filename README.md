@@ -4,7 +4,7 @@ I am the maintainer of some open source projects such as [dbdeployer](https://ww
 
 I have other projects as well, and I welcome feedback on all of them.
 
-You can reach me on Twitter ([@datacharmer)[https://twitter.com/datacharmer)).
+You can reach me on Twitter ([@datacharmer](https://twitter.com/datacharmer)).
 
 <!--
 **datacharmer/datacharmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
