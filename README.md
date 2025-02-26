@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am the maintainer of some open source projects such as [dbdeployer](https://www.dbdeployer.com) and [test_db](https://github.com/datacharmer/test_db).
+I am the maintainer of some open source projects such as [dbdeployer](https://githib.com/datacharmer/dbdeployer) and [test_db](https://github.com/datacharmer/test_db).
 
 I have other projects as well, and I welcome feedback on all of them.
 
